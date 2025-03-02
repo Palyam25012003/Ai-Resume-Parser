@@ -1,0 +1,11 @@
+streamlit
+streamlit-option-menu
+streamlit-extras
+pandas
+numpy
+matplotlib
+seaborn
+pyresparser
+groq
+nltk
+nltk.download('stopwords')
