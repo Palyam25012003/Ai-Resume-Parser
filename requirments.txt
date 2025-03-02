@@ -1,6 +1,5 @@
 streamlit
 pandas
-streamlit-option-menu
 pyresparser
 nltk
 spacy
