@@ -1,6 +1,3 @@
-%%writefile app.py
-
-# Importing required packages
 import os
 import pandas as pd
 import streamlit as st
